@@ -1,1 +1,3 @@
-# Thematic-Apperception-Test
+# Thematic-Apperception-Test By Affan Ahmed In Phython
+This project implements an NLP model to analyze user responses to a series of images from the Thematic Apperception Test (TAT). The TAT is a psychological assessment tool where individuals create stories about ambiguous pictures. In this project, users view five images and write captions or short stories based on them.
+The Thematic Apperception Test.rar contains : 1) Project Main file, in which user will write input and images will shown. 2) Training file, in which model is trained on dataset. 3) Tokenizer file, in which tokenzier is used and trained.
